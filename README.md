@@ -1,0 +1,1 @@
+﻿A simple C++ SFML Template
